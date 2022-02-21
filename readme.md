@@ -11,6 +11,8 @@ Core:
 Communication tool:
 - axios
 
+Start the application:
+- Yarn start
 
 
 ## Preview
